@@ -1,0 +1,91 @@
+body{
+	
+	margin:0px;
+}
+
+.ac-gn-list{
+	float:left;
+	border:2px solid red;
+	background:gray;
+	width:100%;
+	text-align: center;
+	margin:0px;
+	padding:10px;
+}
+	 
+.ac-gn-item{
+	list-style: none;
+	float:left;
+	background:gray;
+	width: 9%;
+}
+
+#father{
+	width:50%;
+	text-align: center;
+	position:relative;
+	left:25%;
+}
+.father2{
+	
+	display: inline-block;
+}
+
+label { 
+	display: block; 
+	width: 6em; 
+	float: left;
+}
+#bigbro{
+	margin:10px;
+}
+#mommy{
+	
+	display:-webkit-box;
+	-webkit-box-orient:horizotal;
+	width: 100%;
+	-webkit-box-pack: center;
+	background: black;
+}
+#kid1{
+	border:2px solid red;
+	width:60px;
+	margin: 10px;
+	background: green;
+	padding: 20px;
+}
+#kid2{
+	border:2px solid red;
+	width:60px;
+	margin: 10px;
+	background: yellow;
+	padding: 20px;
+	-webkit-box-flex: 1;
+}
+#kid3{
+	border:2px solid red;
+	width:60px;
+	margin: 10px;
+	background: red;
+	padding: 20px;
+}
+#kid4{
+	border:2px solid red;
+	width:60px;
+	margin: 10px;
+	background: orange;
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
